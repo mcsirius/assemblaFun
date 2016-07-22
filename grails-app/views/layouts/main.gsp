@@ -16,11 +16,11 @@
 		<asset:javascript src="application.js"/>
 		<g:layoutHead/>
 	</head>
-	<body>
+	<body OnLoad="document.formA.number.focus();">
 
-	<g:form controller="main" action="submit">
+	<g:form name="formA" controller="main" action="submit">
 		<label>Ticket Number: </label>
-		<g:textField name="number" autofocus="autofocus"/><br/>
+		<g:textField name="number"/><br/>
 		<g:actionSubmit value="submit"/>
 	</g:form>
 	</body>
