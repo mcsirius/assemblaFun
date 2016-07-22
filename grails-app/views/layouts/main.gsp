@@ -20,7 +20,7 @@
 
 	<g:form controller="main" action="submit">
 		<label>Ticket Number: </label>
-		<g:textField name="number"/><br/>
+		<g:textField name="number" autofocus="autofocus"/><br/>
 		<g:actionSubmit value="submit"/>
 	</g:form>
 	</body>

@@ -4957,3 +4957,9 @@ n:1134:org/codehaus/groovy/GroovyException
 n:1774:org/codehaus/groovy/control/messages/Message
 n:1964:org/codehaus/groovy/control/messages/SyntaxErrorMessage
 n:3175:org/codehaus/groovy/tools/ErrorReporter
+n:670:org/codehaus/groovy/runtime/dgm$368
+n:1437:org/codehaus/groovy/control/CompilationUnit$compile$0
+n:1826:grails/util/BuildSettings$getClassesDir$2
+n:2009:java_io_File$createTempFile$6
+n:1385:java_io_File$deleteOnExit$7
+n:1489:java_io_File$delete$8
